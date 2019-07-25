@@ -2,6 +2,9 @@
 
 namespace CompanyEquip.App_Start
 {
+    /*
+     * BundleConfig — registers your CSS and JS so they can be bundled and minified.
+     */
     public class BundleConfig
     {
         // For more information on bundling, visit http://go.microsoft.com/fwlink/?LinkId=301862

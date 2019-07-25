@@ -20,7 +20,6 @@ namespace CompanyEquip.Tests.Controllers
             var controller = new EquipmentsController(mockService.Object);
             var result = controller.Details(1) as ViewResult;
             Assert.AreEqual("Details", result.ViewName);
-
         }
     }
 }
