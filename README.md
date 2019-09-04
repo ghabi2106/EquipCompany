@@ -17,7 +17,6 @@ Ci-dessous, un peu plus de détails :
 Technique :
 
 Développement d’un petit projet en ASXP MVC avec utilisation de l’entity framework et  base de données MsSQL.
-Celui-ci sera mise à disposition au plus tard samedi 27/07 au matin à l’équipe RIFT sur un GitHub (cédric conte : cconte@rfit-tech.com et julien vinay : jvinay@rfit-tech.com)
  
 
 Les écrans du projet :
